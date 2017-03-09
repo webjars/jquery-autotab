@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-autotab</artifactId>
-    <version>1.9.2</version>
+    <version>1.9.3-SNAPSHOT</version>
     <name>jQuery Autotab</name>
     <description>WebJar for jQuery Autotab</description>
     <url>http://webjars.org</url>
@@ -52,7 +52,7 @@
         <url>http://github.com/webjars/jquery-autotab</url>
         <connection>scm:git:https://github.com/webjars/jquery-autotab.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-autotab.git</developerConnection>
-        <tag>jquery-autotab-1.9.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
